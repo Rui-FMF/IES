@@ -1,7 +1,7 @@
 # IES
 Practical classes not 100% done or correct, use only for inspiration.
 
-Project done by:
+Project done by:  
 --> Margarida Martins  
 --> Pedro Bastos  
 --> Rui Fernandes  
