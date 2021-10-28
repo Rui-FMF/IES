@@ -1,0 +1,183 @@
+20-Oct-2020 09:43:14.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.39
+20-Oct-2020 09:43:14.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2020 14:11:46 UTC
+20-Oct-2020 09:43:14.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.39.0
+20-Oct-2020 09:43:14.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+20-Oct-2020 09:43:14.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.4.0-48-generic
+20-Oct-2020 09:43:14.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Oct-2020 09:43:14.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+20-Oct-2020 09:43:14.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.8+10-post-Ubuntu-0ubuntu118.04.1
+20-Oct-2020 09:43:14.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+20-Oct-2020 09:43:14.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:43:14.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:43:14.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Oct-2020 09:43:14.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Oct-2020 09:43:14.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Oct-2020 09:43:14.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/conf/logging.properties
+20-Oct-2020 09:43:14.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2020 09:43:14.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2020 09:43:14.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2020 09:43:14.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+20-Oct-2020 09:43:14.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2020 09:43:14.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:43:14.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:43:14.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/temp
+20-Oct-2020 09:43:14.865 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+20-Oct-2020 09:43:15.182 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:43:15.215 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [565] milliseconds
+20-Oct-2020 09:43:15.268 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2020 09:43:15.268 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.39]
+20-Oct-2020 09:43:15.274 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/manager]
+20-Oct-2020 09:43:15.511 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/manager] has finished in [236] ms
+20-Oct-2020 09:43:15.511 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/ROOT]
+20-Oct-2020 09:43:15.525 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/ROOT] has finished in [14] ms
+20-Oct-2020 09:43:15.526 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/docs]
+20-Oct-2020 09:43:15.539 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/docs] has finished in [14] ms
+20-Oct-2020 09:43:15.539 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/examples]
+20-Oct-2020 09:43:15.717 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/examples] has finished in [178] ms
+20-Oct-2020 09:43:15.717 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/host-manager]
+20-Oct-2020 09:43:15.732 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/host-manager] has finished in [15] ms
+20-Oct-2020 09:43:15.736 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:43:15.749 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [533] milliseconds
+20-Oct-2020 09:47:05.807 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/ruifmf/Desktop/IES/Lab%202/Lab%202.1/apache-tomcat-9.0.39/conf/tomcat-users.xml]
+20-Oct-2020 09:47:21.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.39
+20-Oct-2020 09:47:21.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2020 14:11:46 UTC
+20-Oct-2020 09:47:21.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.39.0
+20-Oct-2020 09:47:21.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+20-Oct-2020 09:47:21.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.4.0-48-generic
+20-Oct-2020 09:47:21.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Oct-2020 09:47:21.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+20-Oct-2020 09:47:21.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.8+10-post-Ubuntu-0ubuntu118.04.1
+20-Oct-2020 09:47:21.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+20-Oct-2020 09:47:21.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:47:21.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:47:21.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Oct-2020 09:47:21.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Oct-2020 09:47:21.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Oct-2020 09:47:21.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/conf/logging.properties
+20-Oct-2020 09:47:21.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2020 09:47:21.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2020 09:47:21.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2020 09:47:21.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+20-Oct-2020 09:47:21.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2020 09:47:21.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:47:21.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:47:21.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/temp
+20-Oct-2020 09:47:21.380 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+20-Oct-2020 09:47:21.730 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:47:21.749 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1042)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:533)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1057)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:724)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:746)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:455)
+		at java.base/sun.nio.ch.Net.bind(Net.java:447)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+		at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:228)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:211)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1141)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1154)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:581)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:75)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1039)
+		... 13 more
+20-Oct-2020 09:47:21.751 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [546] milliseconds
+20-Oct-2020 09:47:21.798 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2020 09:47:21.799 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.39]
+20-Oct-2020 09:47:21.805 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/manager]
+20-Oct-2020 09:47:22.059 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/manager] has finished in [254] ms
+20-Oct-2020 09:47:22.060 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/ROOT]
+20-Oct-2020 09:47:22.087 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/ROOT] has finished in [27] ms
+20-Oct-2020 09:47:22.087 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/docs]
+20-Oct-2020 09:47:22.111 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/docs] has finished in [23] ms
+20-Oct-2020 09:47:22.111 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/examples]
+20-Oct-2020 09:47:22.356 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/examples] has finished in [244] ms
+20-Oct-2020 09:47:22.356 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/host-manager]
+20-Oct-2020 09:47:22.374 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/host-manager] has finished in [18] ms
+20-Oct-2020 09:47:22.379 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [628] milliseconds
+20-Oct-2020 09:47:22.382 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use (Bind failed)
+		at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+		at java.base/java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:436)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:395)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:257)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:584)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+20-Oct-2020 09:47:22.383 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:47:22.383 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2020 09:47:22.407 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:47:22.407 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:13:04.860 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/webapp-1.0.war]
+20-Oct-2020 10:13:04.885 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/webapp-1.0.war] has finished in [25] ms
+20-Oct-2020 10:29:41.307 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Oct-2020 10:29:41.308 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:29:41.315 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2020 10:29:41.353 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:29:41.362 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:33:08.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.39
+20-Oct-2020 10:33:08.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2020 14:11:46 UTC
+20-Oct-2020 10:33:08.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.39.0
+20-Oct-2020 10:33:08.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+20-Oct-2020 10:33:08.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.4.0-48-generic
+20-Oct-2020 10:33:08.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Oct-2020 10:33:08.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+20-Oct-2020 10:33:08.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.8+10-post-Ubuntu-0ubuntu118.04.1
+20-Oct-2020 10:33:08.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+20-Oct-2020 10:33:08.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 10:33:08.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 10:33:08.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Oct-2020 10:33:08.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Oct-2020 10:33:08.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Oct-2020 10:33:08.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/conf/logging.properties
+20-Oct-2020 10:33:08.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2020 10:33:08.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2020 10:33:08.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2020 10:33:08.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+20-Oct-2020 10:33:08.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2020 10:33:08.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 10:33:08.021 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39
+20-Oct-2020 10:33:08.022 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/temp
+20-Oct-2020 10:33:08.023 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+20-Oct-2020 10:33:08.400 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:33:08.427 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [635] milliseconds
+20-Oct-2020 10:33:08.482 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2020 10:33:08.482 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.39]
+20-Oct-2020 10:33:08.496 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/webapp-1.0.war]
+20-Oct-2020 10:33:08.760 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/webapp-1.0.war] has finished in [263] ms
+20-Oct-2020 10:33:08.760 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/manager]
+20-Oct-2020 10:33:08.821 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/manager] has finished in [61] ms
+20-Oct-2020 10:33:08.821 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/ROOT]
+20-Oct-2020 10:33:08.843 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/ROOT] has finished in [22] ms
+20-Oct-2020 10:33:08.844 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/docs]
+20-Oct-2020 10:33:08.870 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/docs] has finished in [26] ms
+20-Oct-2020 10:33:08.870 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/examples]
+20-Oct-2020 10:33:09.081 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/examples] has finished in [210] ms
+20-Oct-2020 10:33:09.081 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/host-manager]
+20-Oct-2020 10:33:09.104 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ruifmf/Desktop/IES/Lab 2/Lab 2.1/apache-tomcat-9.0.39/webapps/host-manager] has finished in [23] ms
+20-Oct-2020 10:33:09.113 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:33:09.128 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [701] milliseconds
+20-Oct-2020 10:33:30.761 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Oct-2020 10:33:30.761 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:33:30.768 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2020 10:33:30.795 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:33:30.816 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
