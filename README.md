@@ -8,4 +8,6 @@ Project done by:
 --> João Carvalho  
 --> Francisca Barros  
 
+Grade given: 17
+
 [Original Project repository](https://github.com/margaridasmartins/IES_Project)
